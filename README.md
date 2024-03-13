@@ -21,6 +21,7 @@ sudo apt update
 sudo apt install ros-humble-gazebo-*
 sudo apt install ros-humble-navigation2
 sudo apt install ros-humble-nav2-bringup
+sudo apt install ros-humble-slam-toolbox
 
 # Create your workspace
 mkdir ~/maze_ws && cd ~/maze_ws
