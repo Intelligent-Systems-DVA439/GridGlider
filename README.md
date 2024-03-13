@@ -42,7 +42,9 @@ pip install -r requirements.txt
 # Build packages
 cd ~/maze_ws/
 colcon build --symlink-install
+echo 'source /opt/ros/humble/setup.bash'
 echo 'source ~/maze_ws/install/setup.bash'
+echo 'source /usr/share/gazebo/setup.bash'
 echo 'export TURTLEBOT3_MODEL=waffle_pi'
 echo 'export ROS_DOMAIN_ID=30 #TURTLEBOT3' >> ~/.bashrc
 source ~/bashrc
