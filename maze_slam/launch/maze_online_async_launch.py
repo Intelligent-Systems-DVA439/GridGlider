@@ -33,7 +33,7 @@ def generate_launch_description():
 
     slam_params_file = os.path.join(
         param_file_dir,
-        "mapper_params_online_sync.yaml",
+        "mapper_params_online_async.yaml",
     )
     exploration_param_file = os.path.join(
         get_package_share_directory("exploration"), "config", "params.yaml"
