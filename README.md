@@ -27,7 +27,7 @@ mkdir ~/maze_ws && cd ~/maze_ws
 mkdir src && cd src
 
 # Example command to clone your repository
-git clone --depth 1 https://github.com/yourusername/pathfinderaiproject.git
+git clone --depth 1 https://github.com/Intelligent-Systems-DVA439/GridGlider.git
 
 # Install Gazebo_simulation package for Turtlebot3
 git clone -b humble-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
