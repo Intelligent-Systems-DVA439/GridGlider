@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: exploration
+Version: 0.0.1
+Summary: Package used for turtlebot3 exploration using A* star for path navigation and fuzzy for local obstacle avoidance
+Home-page: UNKNOWN
+Maintainer: pontus
+Maintainer-email: psn19003@student.mdu.se
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

@@ -1,0 +1,3 @@
+# ClusterArray.msg
+ClusterInfo[] clusters
+

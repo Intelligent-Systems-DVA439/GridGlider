@@ -1,0 +1,3 @@
+[console_scripts]
+exploration-node = exploration.main:main
+
