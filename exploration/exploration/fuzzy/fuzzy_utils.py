@@ -1,6 +1,6 @@
 # fuzzy.py
 # ==============================================================================
-# Author: Carl Larsson, (modified by: Pontus Svensson)
+# Author: Carl Larsson
 # Description: Fuzzy functions
 # Date: 15-02-2024
 
